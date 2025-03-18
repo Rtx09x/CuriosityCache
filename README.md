@@ -6,7 +6,7 @@
 **A Personal Research Collection**
 
 **About This Repository**  
-Hi there! Welcome to CuriosityCache, my personal stash of research and notes on topics I’m exploring. I’m an 18-year-old diving into AI, computer science, neuroscience, linguistics, and whatever else catches my interest. This isn’t a formal project—it’s more like a scrapbook of stuff I’ve learned, mostly for my own reference. I’m putting it out here because, well, why not? Maybe someone else will find it useful too.
+Hi there! Welcome to CuriosityCache, my personal stash of research and notes on topics I’m exploring. I’m an 18-year-old diving into AI, computer science, neuroscience, linguistics, and whatever else catches my interest. This isn’t a formal project—it’s more like a scrapbook of stuff I’ve learned, mostly for my own reference. I’m putting it out here because, well, why not? Maybe someone else will find it useful too, i'm using Obsidian so there might be inconsistencies in formatting here in github, which im too lazy to fix, you'll have to suffer, sorrie :).
 
 Right now, you’ll find notes on things like reinforcement learning in large language models (e.g., DeepSeek R1), comparisons between human neurons and transformer networks, and some brain science basics (dendrites, axons, synapses). I’m also starting to poke into linguistics—think Chomsky. It’s a bit of a mixed bag, but that’s the point—it’s general, informal, and all about learning.
 

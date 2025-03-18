@@ -1,0 +1,1 @@
+A synapse consists of a [[Presynaptic terminal]] a tiny gap known as the [[Synaptic cleft]] and a [[Postsynaptic membrane]] (a part of a dendrite or another neuron) . The physical separation at the synapse, where communication relies on the diffusion of chemical signals, introduces a layer of complexity.

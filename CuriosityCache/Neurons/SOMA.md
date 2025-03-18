@@ -1,0 +1,1 @@
+The **soma**, or cell body, houses the nucleus and is responsible for the neuron's essential metabolic functions
