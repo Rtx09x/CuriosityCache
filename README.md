@@ -10,6 +10,11 @@ Hi there! Welcome to CuriosityCache, my personal stash of research and notes on 
 
 Right now, you’ll find notes on things like reinforcement learning in large language models (e.g., DeepSeek R1), comparisons between human neurons and transformer networks, and some brain science basics (dendrites, axons, synapses). I’m also starting to poke into linguistics—think Chomsky. It’s a bit of a mixed bag, but that’s the point—it’s general, informal, and all about learning.
 
+**Currently Includes**
+- Infinite Lossless Compression Analysis
+- Transformers and Reinforced learning
+- Basic Neuronic Mechanisms Study
+
 **What to Expect**  
 This is a personal project, so it’s not super polished or structured. I threw it together in about a day of research, using some AI tools to help me along (gotta save time somehow!). I don’t have a strict update schedule—life’s busy, and I’m not always free (or motivated) to keep it current. I’ll add to it whenever I can or feel like it, so it’s pretty flexible. Don’t expect a finished product—this is more like a living document that grows when I do, tho im lazy sometimes to update stuff, but i do my research, so i might update the repo with tons of stuff at once, chill out and keep an eye :).
 
