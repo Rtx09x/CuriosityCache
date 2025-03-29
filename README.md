@@ -10,6 +10,11 @@ Hi there! Welcome to CuriosityCache, my personal stash of research and notes on 
 
 Right now, you’ll find notes on things like reinforcement learning in large language models (e.g., DeepSeek R1), comparisons between human neurons and transformer networks, and some brain science basics (dendrites, axons, synapses). I’m also starting to poke into linguistics—think Chomsky. It’s a bit of a mixed bag, but that’s the point—it’s general, informal, and all about learning.
 
+Obsidian Representation :
+![Obsidian Graph](screenshots/screenshot1.png)
+
+![Obsidian Graph](screenshots/screenshot2.png)
+
 **Currently Includes**
 - Infinite Lossless Compression Analysis
 - Transformers and Reinforced learning
