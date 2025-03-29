@@ -10,8 +10,19 @@ Hi there! Welcome to CuriosityCache, my personal stash of research and notes on 
 
 Right now, you’ll find notes on things like reinforcement learning in large language models (e.g., DeepSeek R1), comparisons between human neurons and transformer networks, and some brain science basics (dendrites, axons, synapses). I’m also starting to poke into linguistics—think Chomsky. It’s a bit of a mixed bag, but that’s the point—it’s general, informal, and all about learning.
 
+Obsidian Representation :
+
+![Obsidian Graph](screenshots/screenshot1.png)
+
+![Obsidian Graph](screenshots/screenshot2.png)
+
+**Currently Includes**
+- Infinite Lossless Compression Analysis
+- Transformers and Reinforced learning
+- Basic Neuronic Mechanisms Study
+
 **What to Expect**  
-This is a personal project, so it’s not super polished or structured. I threw it together in about a day of research, using some AI tools to help me along (gotta save time somehow!). I don’t have a strict update schedule—life’s busy, and I’m not always free (or motivated) to keep it current. I’ll add to it whenever I can or feel like it, so it’s pretty flexible. Don’t expect a finished product—this is more like a living document that grows when I do, tho im lazy sometimes to update stuff, but i do my research, so i might update the repo with tons of stuff at once, chill out and keep an eye :).
+This is a personal project, so it’s not super polished or structured. I threw it together in about a day of research, using some AI tools to help me along, writing stuff for me and searching info and discussing concepts...(gotta save time somehow!). I don’t have a strict update schedule—life’s busy, and I’m not always free (or motivated) to keep it current. I’ll add to it whenever I can or feel like it, so it’s pretty flexible. Don’t expect a finished product—this is more like a living document that grows when I do, tho im lazy sometimes to update stuff, but i do my research, so i might update the repo with tons of stuff at once, chill out and keep an eye :).
 
 **Contributions**  
 I’d love to see contributions if anyone’s interested! Feel free to fork this, add your own notes, fix stuff, or suggest ideas—especially if you’ve got insights on AI, linguistics, or anything I’ve touched on. No pressure, though—I’m not running a tight ship here. If you contribute, I’ll try to review and merge when I get the chance, but it might take a bit depending on my schedule. All I ask is keep it respectful and relevant to the “general knowledge” vibe.
