@@ -7,7 +7,7 @@ Reflecting on the ~3-hour compression deep dive:
 
 1. **Start with Intuition:** Began with a simple concept ([[Initial Ideas - Morse & Simple Abstraction]]) and let curiosity drive exploration.
     
-2. **Iterative Hypothesis & Test:** Constantly proposed new ideas ([[The Recursive Abstraction Idea]], [[Exploring Solutions Different Number Systems]], [[Exploring Solutions Advanced Structures]]) and immediately tried to work through their logical consequences, often using ChatGPT as a simulator or logical checker.
+2. **Iterative Hypothesis & Test:** Constantly proposed new ideas ([[The Recursive Abstraction Idea]], [[Exploring Solutions Different Number Systems]], [[Exploring Solutions Advanced Structures]]) and immediately tried to work through their logical consequences.
     
 3. **Focus on Fundamentals:** Kept returning to [[The Core Problem Representing 4 States with 2 Symbols]], recognizing it as the core obstacle. Didn't get lost in just the details of specific techniques.
     
